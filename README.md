@@ -1,6 +1,6 @@
 # FANTASY-PREMIER-LEAGUE
 
- An experiment to find out the decision making in famous online game - Fantasy Premier League. (FPL)
+To find out the decision making in famous online game - Fantasy Premier League. (FPL)
 
 ## Idea
 FPL provides opportunity for enthusiasts to try their hand at decision making.
