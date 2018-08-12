@@ -207,7 +207,7 @@ Packages providing this file are:
 ```
 dnf install mongodb-org-tools
 Failed to synchronize cache for repo 'dockerrepo', disabling.
-Last metadata expiration check: 0:27:04 ago on Thu Jan  5 11:01:05 2017.
+Last metadata expiration check: 0:27:04 ago on Thu Jul  5 11:01:05 2018.
 Error: package mongodb-org-tools-3.2.0-1.el7.x86_64 conflicts with mongodb-server provided by mongodb-server-3.2.8-2.fc25.x86_64
 (try to add '--allowerasing' to command line to replace conflicting packages)
 ```
